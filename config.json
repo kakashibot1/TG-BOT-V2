@@ -1,18 +1,18 @@
 {
   "devMode": true,
   "timeZone": "Asia/Dhaka",
-  "prefix": "!",
+  "prefix": "~",
   "symbols": "●",
   "owner": {
-    "name": "YOUR_NAME",
+    "name": "🜙🜄🜋𝑨𝑶𝑪𝑻𝑨𝑪𝑶𝑫𝑬🜙🜄🜋,
     "facebook": "FACEBOOK_ID",
     "username": "TG_USERNAME"
   },
   "admin": [
-    "ADMIN_UID"
+    "8569769608"
   ],
   "vip": [
-    "VIP_UID"
+    "8688941665"
   ],
   "loadCmds": true,
   "loadEvents": true,
